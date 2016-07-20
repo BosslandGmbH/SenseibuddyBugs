@@ -1,0 +1,2 @@
+# SenseibuddyBugs
+Bugtracker for Senseibuddy
